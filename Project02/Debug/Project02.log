@@ -1,0 +1,7 @@
+﻿  Project02.cpp
+E:\nawalsnew\Project02\Project02.cpp(43,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\nawalsnew\Project02\Project02.cpp(43,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\nawalsnew\Project02\Project02.cpp(105,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\nawalsnew\Project02\Project02.cpp(105,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\nawalsnew\Project02\Project02.cpp(188,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project02.vcxproj -> E:\nawalsnew\Project02\Debug\Project02.exe
